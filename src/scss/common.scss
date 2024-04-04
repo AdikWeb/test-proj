@@ -1,0 +1,16 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+html, body, #app {
+  min-height: 100vh;
+}
+
+#app{
+  background: #ffffff;
+  color: #4d4d4d;
+}
+
+$box-shadow: 1px 0 13px -2px #6e6e6e38;
